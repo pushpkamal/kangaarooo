@@ -1,2 +1,1 @@
-# kangaarooo
-rg
+# project-template-kangaroo-2
